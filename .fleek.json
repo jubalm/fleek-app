@@ -1,0 +1,15 @@
+{
+  "site": {
+    "id": "e95623fb-a141-4209-9ee6-fffd9b358dfe",
+    "team": "Jubal Mabaquiao Team",
+    "platform": "ipfs",
+    "source": "ipfs",
+    "name": "hidden-waterfall-6189"
+  },
+  "build": {
+    "baseDir": "",
+    "command": "npm ci && npm run build",
+    "publicDir": "dist",
+    "rootDir": ""
+  }
+}
